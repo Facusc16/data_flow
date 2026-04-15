@@ -1,3 +1,4 @@
 __pycache__
 .cache
 ml_models
+spotify_dataset.csv
